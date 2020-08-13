@@ -1,6 +1,7 @@
 body{
 	background-image: url(https://i.pinimg.com/originals/65/f5/6e/65f56efd2a0a3144424b4f47a39cd54f.jpg);
 	background-size: cover;
+	background-repeat:no-repeat;
 }
 
 video{
